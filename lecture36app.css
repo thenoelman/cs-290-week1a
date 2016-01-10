@@ -1,0 +1,19 @@
+h1 {
+	color: red;
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 1px solid purple;
+}
+li{
+	color: green;
+}
+h4 {
+	color: purple;
+}
+body {
+	background: url(woody.jpg);
+	background-repeat: no-repeat;
+	background-size: cover; 
+}
